@@ -674,14 +674,14 @@
       "#E36D7D"
     ],
     "REDESIGN_CHAT_MENTION_BACKGROUND": [
-      "#F8C6B7",
-      "#F8C6B7",
-      "#F8C6B7"
+      "#F4C3D7",
+      "#F4C3D7",
+      "#F4C3D7"
     ],
     "REDESIGN_CHAT_REPLY_BACKGROUND": [
-      "#F8C6B7",
-      "#F8C6B7",
-      "#F8C6B7"
+      "#F4C3D7",
+      "#F4C3D7",
+      "#F4C3D7"
     ],
     "FOCUS_PRIMARY": [
       "#E36D7D",
@@ -1066,7 +1066,7 @@
   "background": {
     "blur": 0,
     "url": "https://raw.githubusercontent.com/TwilightRavennMiya/Strawberry-Whirl-/main/chat-wallpaper.png",
-    "alpha": 0.25,
+    "alpha": 0.18,
     "color": "#F4B5A7"
   }
 }
