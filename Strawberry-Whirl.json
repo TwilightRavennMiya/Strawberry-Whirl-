@@ -179,14 +179,14 @@
       "#F8C6B7"
     ],
     "BACKGROUND_MENTIONED": [
-      "#F4C3D7",
-      "#F4C3D7",
-      "#F4C3D7"
+      "#F7D3DF",
+      "#F7D3DF",
+      "#F7D3DF"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
-      "#F4C3D7",
-      "#F4C3D7",
-      "#F4C3D7"
+      "#F0AFC4",
+      "#F0AFC4",
+      "#F0AFC4"
     ],
     "BG_MOD_FAINT": [
       "#F4B5A7",
@@ -214,14 +214,14 @@
       "#E36D7D"
     ],
     "MENTION_BACKGROUND": [
-      "#F8C6B7",
-      "#F8C6B7",
-      "#F8C6B7"
+      "#F6B7C5",
+      "#F6B7C5",
+      "#F6B7C5"
     ],
     "MENTION_FOREGROUND": [
-      "#E36D7D",
-      "#E36D7D",
-      "#E36D7D"
+      "#9F3D58",
+      "#9F3D58",
+      "#9F3D58"
     ],
     "TEXT_NORMAL": [
       "#63332E",
@@ -674,14 +674,14 @@
       "#E36D7D"
     ],
     "REDESIGN_CHAT_MENTION_BACKGROUND": [
-      "#F4C3D7",
-      "#F4C3D7",
-      "#F4C3D7"
+      "#F7D3DF",
+      "#F7D3DF",
+      "#F7D3DF"
     ],
     "REDESIGN_CHAT_REPLY_BACKGROUND": [
-      "#F4C3D7",
-      "#F4C3D7",
-      "#F4C3D7"
+      "#F7D3DF",
+      "#F7D3DF",
+      "#F7D3DF"
     ],
     "FOCUS_PRIMARY": [
       "#E36D7D",
