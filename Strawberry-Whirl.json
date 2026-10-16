@@ -97,10 +97,10 @@
       "#F0788333"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#FFC0BB80"
+      "#F078834D"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#F0788333"
+      "#DCA49A"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "#F078831A"
@@ -136,22 +136,22 @@
       "#9D493D"
     ],
     "TEXT_NORMAL": [
-      "#9D493D"
+      "#63332E"
     ],
     "TEXT_PRIMARY": [
-      "#9D493D"
+      "#63332E"
     ],
     "TEXT_DEFAULT": [
-      "#9D493D"
+      "#63332E"
     ],
     "TEXT_SECONDARY": [
-      "#C47A70"
+      "#9D493D"
     ],
     "TEXT_TERTIARY": [
       "#C47A70"
     ],
     "TEXT_MUTED": [
-      "#C47A70"
+      "#9D493D"
     ],
     "HEADER_PRIMARY": [
       "#9D493D"
@@ -163,13 +163,13 @@
       "#C47A70"
     ],
     "TEXT_LINK": [
-      "#E36D7D"
+      "#C87568"
     ],
     "TEXT_LINK_LOW_SATURATION": [
       "#E36D7D"
     ],
     "TEXT_BRAND": [
-      "#E36D7D"
+      "#C87568"
     ],
     "TEXT_POSITIVE": [
       "#658B61"
@@ -343,10 +343,10 @@
       "#F0A18F"
     ],
     "BORDER_SUBTLE": [
-      "#FFD0C3"
+      "#FFD2C1"
     ],
     "BORDER_STRONG": [
-      "#F0A18F"
+      "#DCA49A"
     ],
     "BORDER_MUTED": [
       "#F0A18F"
@@ -449,6 +449,45 @@
     ],
     "BUTTON_SECONDARY_TEXT": [
       "#9D493D"
+    ],
+    "BACKGROUND_BASE_LOWEST": [
+      "#FFF7EF"
+    ],
+    "BACKGROUND_BASE_LOWER": [
+      "#FFF0E6"
+    ],
+    "BACKGROUND_BASE_LOW": [
+      "#FFF0E6"
+    ],
+    "BACKGROUND_BASE": [
+      "#FFF0E6"
+    ],
+    "BACKGROUND_BASE_MEDIUM": [
+      "#FFE8DC"
+    ],
+    "BACKGROUND_BASE_HIGH": [
+      "#FFE1D2"
+    ],
+    "BACKGROUND_BASE_HIGHER": [
+      "#FFD2C1"
+    ],
+    "BACKGROUND_BASE_HIGHEST": [
+      "#FFC0BB"
+    ],
+    "BACKGROUND_SURFACE_LOW": [
+      "#FFF7EF"
+    ],
+    "BACKGROUND_SURFACE": [
+      "#FFF0E6"
+    ],
+    "BACKGROUND_SURFACE_HIGH": [
+      "#FFE8DC"
+    ],
+    "BACKGROUND_SURFACE_HIGHEST": [
+      "#FFE1D2"
+    ],
+    "BORDER_NORMAL": [
+      "#DCA49A"
     ]
   },
   "rawColors": {
