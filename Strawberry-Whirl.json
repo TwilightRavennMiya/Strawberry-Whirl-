@@ -1,0 +1,149 @@
+{
+  "name": "Strawberry Whirl",
+  "description": "a gift for my friend:3",
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#FFF0E6"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#FFE1D2"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#FFD2C1"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#F7B09F"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#FFF7EF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#FFF0E6"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#FFE1D2"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#FFE8DC"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#FFD5C7"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#F8B5A5"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#FFC0BB"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#E98979"
+    ],
+    "TEXT_NORMAL": [
+      "#9D493D"
+    ],
+    "TEXT_MUTED": [
+      "#C47A70"
+    ],
+    "TEXT_LINK": [
+      "#E36D7D"
+    ],
+    "HEADER_PRIMARY": [
+      "#9D493D"
+    ],
+    "HEADER_SECONDARY": [
+      "#C47A70"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#C47A70"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#9D493D"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#813C35"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#DCA49A"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#C47A70"
+    ],
+    "CHANNELS_ICON": [
+      "#E98979"
+    ],
+    "BRAND_500": [
+      "#F07883"
+    ],
+    "BRAND_560": [
+      "#E36D7D"
+    ],
+    "BRAND_600": [
+      "#D75B70"
+    ],
+    "BUTTON_PRIMARY_BACKGROUND": [
+      "#F07883"
+    ],
+    "BUTTON_PRIMARY_BACKGROUND_HOVER": [
+      "#E36D7D"
+    ],
+    "BUTTON_PRIMARY_BACKGROUND_ACTIVE": [
+      "#D75B70"
+    ],
+    "BUTTON_PRIMARY_TEXT": [
+      "#FFFFFF"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND": [
+      "#FFC0BB"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND_HOVER": [
+      "#F8B5A5"
+    ],
+    "BUTTON_SECONDARY_TEXT": [
+      "#9D493D"
+    ],
+    "INPUT_BACKGROUND": [
+      "#FFE8DC"
+    ],
+    "INPUT_PLACEHOLDER_TEXT": [
+      "#C47A70"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#FFF7EF"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#FFE8DC"
+    ],
+    "MODAL_BACKGROUND": [
+      "#FFF0E6"
+    ],
+    "MODAL_FOOTER_BACKGROUND": [
+      "#FFE1D2"
+    ],
+    "BORDER_STRONG": [
+      "#F0A18F"
+    ],
+    "BORDER_SUBTLE": [
+      "#FFD0C3"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#FFF7EF",
+    "PRIMARY_200": "#FFF0E6",
+    "PRIMARY_300": "#FFE1D2",
+    "PRIMARY_400": "#FFD2C1",
+    "PRIMARY_500": "#F7B09F",
+    "PRIMARY_600": "#FFC0BB",
+    "PRIMARY_700": "#F07883",
+    "PRIMARY_800": "#E36D7D",
+    "PRIMARY_900": "#9D493D",
+    "BRAND_500": "#F07883",
+    "BRAND_560": "#E36D7D",
+    "BRAND_600": "#D75B70",
+    "GREEN_500": "#8DB28A",
+    "YELLOW_500": "#F4C27A",
+    "RED_500": "#F07883",
+    "WHITE": "#FFF7EF",
+    "BLACK": "#63332E"
+  }
+}
